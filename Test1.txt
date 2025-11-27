@@ -1,1 +1,2 @@
 I just write something here... this line is added in branch-hua
+I just write something here... hello, from master
